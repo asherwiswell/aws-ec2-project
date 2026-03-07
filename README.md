@@ -40,11 +40,11 @@ This project demonstrates how to deploy a Linux EC2 instance in AWS, configure n
 ## Screenshots
 
 ![EC2 Creation](creating-ec2.png)
-![EC2 Creation 2][creating-ec2-2.png]
-![Key Pair Creation][creating-key-pair.png]
-![EC2 Running][ec2-running.png]
-![EC2 Metrics][ec2-metrics.png]
-![SSH Connection][ssh-connection.png]
+![EC2 Creation 2](creating-ec2-2.png)
+![Key Pair Creation](creating-key-pair.png)
+![EC2 Running](ec2-running.png)
+![EC2 Metrics](ec2-metrics.png)
+![SSH Connection](ssh-connection.png)
 
 
 
