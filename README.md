@@ -1,7 +1,5 @@
 # aws-ec2-project
 
-## Project Title
-
 Deploying and Securing an AWS EC2 Instance
 
 ## Objective
